@@ -1,7 +1,0 @@
-The links given below are video recordings of the working of this system:
-
-THE CONNECTIONS MADE WERE:
-BATTERY MANAGEMENT SYSTEM --------> P-CANBUS --------> PYTHON (laptop system)
-
-CHARGING:
-https://drive.google.com/file/d/1MNswi8PKmr24tagPCHimDqPfeH-ylJro/view?usp=sharing
