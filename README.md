@@ -19,5 +19,5 @@ The GUI is integrated in PYQT5 library of python language. Thus the GUI was made
 * ManualRead
 
 ### Working of the files can be seen in the links given below
-* Charging: 
-* Discharging: 
+* Charging: https://drive.google.com/file/d/1MNswi8PKmr24tagPCHimDqPfeH-ylJro/view?usp=sharing
+* Discharging: https://drive.google.com/file/d/1R-r0_qvj4X_LmxT-82aSy0nFW9PsQyEL/view?usp=sharing
